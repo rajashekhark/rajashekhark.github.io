@@ -6,7 +6,7 @@
 name: Rajasekhar Kambhampati
 
 # Short bio or description (displayed in the header)
-description: Developer with a passion to constantly learn and share. 
+description: Developer with a passion to constantly learn and share.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/rajashekhark
@@ -52,6 +52,9 @@ baseurl: ""
 markdown: redcarpet
 highlighter: rouge
 permalink: /:title/
+
+safe: true
+lsi: false
 
 # The release of Jekyll Now that you're using
 version: v1.0.0
